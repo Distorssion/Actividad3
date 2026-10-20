@@ -5,6 +5,6 @@
 - **Nombre completo del docente**: Walter Hugo Arboleda Mazo
 
 ### Uso
-- La carpeta "Actividad3" contiene el código de los 2 ejercicios propuestos.
+- La carpeta "Actividad3" contiene el código e imagenes de los 2 ejercicios propuestos.
   1. Ejercicio 8.2
   2. Ejercicio 8.3
